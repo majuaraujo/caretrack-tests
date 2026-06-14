@@ -1,0 +1,11 @@
+{
+  "name": "caretrack-tests",
+  "version": "1.0.0",
+  "description": "Automated tests for CareTrack",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
